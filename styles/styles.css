@@ -1,0 +1,22 @@
+h3{
+    margin-left: 40px;
+    background-color: saddlebrown;
+    border: 5px solid brown;
+    border-radius: 10px;
+    box-shadow: 10px 10px  cyan;
+    
+ 
+}
+ol{
+    text-align: center;
+    font-size: larger;
+    font-weight: 500;
+    font-style: oblique;
+}
+.image{
+    background-image: url('../images/photo_2024-08-01_14-12-42.jpg');
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-size: contain;
+    background-position: center;
+}
